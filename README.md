@@ -1,2 +1,2 @@
 # libft_42
-my own c library
+i'v created my own c library.
